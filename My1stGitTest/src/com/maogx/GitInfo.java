@@ -29,6 +29,7 @@ public class GitInfo {
 	public static void main(String[] args) {
 		GitInfo gitinfo=new GitInfo("maogx", "mgx_star@126.com");
 		System.out.println(gitinfo.toString());
+		System.out.println("ÄãºÃ Git!"+gitinfo.toString());
 	}
 	
 
